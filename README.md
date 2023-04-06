@@ -9,11 +9,11 @@
     <a href="https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc" target="_blank"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
-    <a href="https://0xabdulkhalid.github.io/single-price-grid-component/" target="_blank">View Demo</a>
+    <a href="#" target="_blank">View Demo</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/0xabdulkhalid/single-price-grid-component/issues" target="_blank">Report Bug</a>
+    <a href="https://github.com/Great-kiola/Article-preview-comp/issues" target="_blank">Report Bug</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/0xabdulkhalid/single-price-grid-component/issues" target="_blank">Request Feature</a>
+    <a href="https://github.com/Great-kiola/Article-preview-comp/issues" target="_blank">Request Feature</a>
   </p>
 </div>
 
@@ -21,7 +21,7 @@
 <div align="center">
   <!-- Profiles -->
   <a href="https://www.frontendmentor.io/profile/0xabdulkhalid" target="_blank">
-    <img src="https://img.shields.io/badge/Profile-0xAbdulKhalid-eee?style=for-the-badge&logo=frontendmentor" alt="Abdul's Profile">
+    <img src="https://img.shields.io/badge/Profile-Great-kiola-eee?style=for-the-badge&logo=frontendmentor" alt="ola's Profile">
   </a> &nbsp;&nbsp;&nbsp;
 
   <!-- Status -->
@@ -44,7 +44,7 @@
 ## **Preview**
 
 <div align='center'>
-<img src='./design/desktop-preview.jpg' alt='Single price grid component solution cover image'>
+<img src='#' alt='Single price grid component solution cover image'>
 </div>
 
 
@@ -85,19 +85,19 @@
 
 <br>
 
-## **Let's Connect 👋**
+## **Let's Connect**
 
 <div align=center>
 
-  <a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
+  <a href="https://www.linkedin.com/in/olabode-kilaso-85894a102/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin%20Profile-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=Linkedin>
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.frontendmentor.io/profile/0xabdulkhalid" target="_blank">
+  <a href="https://www.frontendmentor.io/profile/Great-kiola" target="_blank">
     <img src="https://img.shields.io/badge/FEM%20Profile-f8f9f8?style=for-the-badge&logo=Frontend-Mentor&logoColor=black" alt="Frontend-Mentor">
   </a> &nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.github.com/0xabdulkhalid/" target="_blank">
+  <a href="https://github.com/Great-kiola" target="_blank">
     <img src="https://img.shields.io/badge/Github%20Profile-131313?style=for-the-badge&logo=github&logoColor=white" alt="Personal Website">
   </a>
 
