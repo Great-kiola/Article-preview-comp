@@ -41,10 +41,10 @@
 
 <br>
 
-## **Preview**
+## **Screenshot**
 
 <div align='center'>
-<img src='#' alt='Single price grid component solution cover image'>
+<img src='./images/Screenshot.png' alt='Single price grid component solution cover image'>
 </div>
 
 
