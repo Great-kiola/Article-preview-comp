@@ -20,7 +20,7 @@
 <!-- Badges -->
 <div align="center">
   <!-- Profiles -->
-  <a href="https://www.frontendmentor.io/profile/0xabdulkhalid" target="_blank">
+  <a href="https://www.frontendmentor.io/profile/Great-kiola" target="_blank">
     <img src="https://img.shields.io/badge/Profile-Great-kiola-eee?style=for-the-badge&logo=frontendmentor" alt="ola's Profile">
   </a> &nbsp;&nbsp;&nbsp;
 
