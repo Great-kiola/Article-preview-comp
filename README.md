@@ -55,7 +55,7 @@
 - |||
   | :----- | :----- |
   | Solution URL: | [Single Price Grid Component 🎯 [ SEMANTIC MARKUP - CSS GRID - BEM ]](https://www.frontendmentor.io/solutions/single-price-grid-component-semantic-markup-css-grid-bem-AIE-B8wcit) |
-  | Live Site URL: | [https://0xabdulkhalid.github.io/single-price-grid-component/](https://0xabdulkhalid.github.io/single-price-grid-component/) |
+  | Live Site URL: | [https://article-preview-comp-theta.vercel.app/](https://article-preview-comp-theta.vercel.app/) |
   |||
 
 
